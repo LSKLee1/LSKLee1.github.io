@@ -18,8 +18,10 @@ tags:
 
         首先要介绍一下JavaFX是个什么东东：刚刚接触Java的同学一定会知道Java的图形界面库Swing，或者AWT，他们当然都比较老了，或者说过时了，他们都没有做到界面与代码分离（会有好多的坐标位置什么的），所以写起来会麻烦，想要做的美观的话对于新手小白来讲真的是很难。我说的JavaFX还算比较新。若是会用的话还是比较得心应手的。
 
-        JavaFX也是Java的一个图形界面库，真的强烈给大家推荐使用JavaFX，推荐使用JavaFX，推荐使用JavaFX。。。嘿嘿，说三遍。为什么这么说呢，因为如果你掌握了使用FXML文件来设计界面，用Controller类来控制界面里面的所有的action的话，那么恭喜你你已经入门了，成功实现了界面与代码的分离，再加上SceneBuilder（下面会说他是个啥玩意er）的帮助，那么你会很得心应手的。
----
+        JavaFX也是Java的一个图形界面库，真的强烈给大家推荐使用JavaFX，推荐使用JavaFX，推荐使用JavaFX。。。
+嘿嘿，说三遍。为什么这么说呢，因为如果你掌握了使用FXML文件来设计界面，用Controller类来控制界面里面的所有的action的话，那么恭喜你你已经入门了，成功实现了界面与代码的分离，再加上SceneBuilder（下面会说他是个啥玩意er）的帮助，那么你会很得心应手的。
+
+
 
 ## 环境配置：
         1.强烈推荐 Intellij IDEA，我一直用的就是IDEA，在课程设计过程中，在教使用Eclipse同学们使用FXML文件的过程中，遇到了无数的麻烦，所以还请大家使用更加智能一点的IDEA吧。
@@ -33,8 +35,6 @@ tags:
 打开Intellij --->点击File--->点击settings--->Languages&Frameworks--->JavaFX
 
 在Path to SceneBuilder 中填入SceneBuilder的exe文件。
-
-
 
 然后，环境就搭建好啦。
 
