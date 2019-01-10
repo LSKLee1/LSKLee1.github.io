@@ -1,0 +1,119 @@
+---
+layout:     post
+title:      "JavaFX UI 医疗保险报销系统"
+subtitle:   " \"东北大学软院第一次课设\""
+date:       2018-08-16 12:00:00
+author:     "Reno"
+header-img: "img/post-bg2-2018.jpg"
+catalog: true
+tags:
+    - JavaFX
+    - 你我
+---
+
+#作者及学习JavaFX的背景：
+        本人东北大学件学院软件工程专业一名学生，在大一下也就是2018年暑假期间，学校有一门课叫做面向对象课程设计，这门课要求学生用Java来写出一个面向对象的GUI的系统（医疗保险报销系统）。
+
+        下面我来介绍一下，如何用JavaFX在两周里（实际为一周）来写出一个界面美观，且大气的GUI。
+
+        首先要介绍一下JavaFX是个什么东东：刚刚接触Java的同学一定会知道Java的图形界面库Swing，或者AWT，他们当然都比较老了，或者说过时了，他们都没有做到界面与代码分离（会有好多的坐标位置什么的），所以写起来会麻烦，想要做的美观的话对于新手小白来讲真的是很难。我说的JavaFX还算比较新。若是会用的话还是比较得心应手的。
+
+        JavaFX也是Java的一个图形界面库，真的强烈给大家推荐使用JavaFX，推荐使用JavaFX，推荐使用JavaFX。。。嘿嘿，说三遍。为什么这么说呢，因为如果你掌握了使用FXML文件来设计界面，用Controller类来控制界面里面的所有的action的话，那么恭喜你你已经入门了，成功实现了界面与代码的分离，再加上SceneBuilder（下面会说他是个啥玩意er）的帮助，那么你会很得心应手的。
+
+#环境配置：
+        1.强烈推荐 Intellij IDEA，我一直用的就是IDEA，在课程设计过程中，在教使用Eclipse同学们使用FXML文件的过程中，遇到了无数的麻烦，所以还请大家使用更加智能一点的IDEA吧。
+
+        2.SceneBuilder：SceneBuilder是一款用来设计界面的软件（很小的），可以通过拖拽控件来进行页面设计。
+
+下载链接：SceneBuilder下载     具体配置下面详解：
+
+正常下载完成后，SceneBuilder会自动打开，不要管他，将所有的关于SceneBuilder的东西全部关闭。
+
+打开Intellij --->点击File--->点击settings--->Languages&Frameworks--->JavaFX
+
+在Path to SceneBuilder 中填入SceneBuilder的exe文件。
+
+
+
+然后，环境就搭建好啦。
+
+#JavaFX入门：
+首先，我们要建立一个新的项目，按这个医疗保险报销系统例子来讲的话就是MedicalInsuranceSystem，建立完Project后，开始我们的构建GUI界面之旅。
+
+首先，先来热热身吧：
+
+1.我们右击src那个文件夹，然后鼠标放在new上，在点击Java class，然后Name里输入MySceneController就创建了一个控制器类（用来控制下面我们即将用来构建界面的FXML文件中的一系列动作，即所谓的控制代码）。
+
+2.再次右击src文件夹，鼠标放在new上，在点击FXML File，然后Name里输入MySceneController就创建了一个可以用来写界面的文件。（建立后你会发现你的那个文件中有一行，有这样的fx:controller="MySceneController"代码，然后“”中的内容被一个红框框框住了，没关系，只要你的Controller类（就是那个Java Class文件）和FXML文件的名称是一样的，就不用担心，也不用更改；但如果不一样的话就需要把“”中的内容改成新创立的Java Class文件一样的名称，推荐建立一样的文件名称，这样方便你去找到对应的界面和代码）。
+
+
+
+3.好，做完前两个步骤之后，我们开始界面的设计了。在左边的文件夹中找到你新建立的FXML文件，右击，在最下面可以看到Open In SceneBuilder，点击后，这个文件就会在SceneBuilder中打开会出现下面的界面：
+
+
+
+然后就可以进行界面的设计啦。下面我给出一个极其简单的例子：
+
+4.在左边上面的的Library上输入Button，找到button，点击，拖动到AnchorPane上：
+
+
+
+双击那个按钮可以修改文本，我在这里改成ok
+
+
+
+5.然后，我们看右边的三个菜单栏：有Properties（属性），Layout（布局），Code（代码）。
+
+
+
+我们先点击我们之前拖动到AnchorPane上的那个button，再看右边就会有东西出现了，然后点击Code那一栏，看前面几行就好（下面的留给你自己探索吧）有fx：id（这个通俗讲就是这个button的名称，就是这个button的变量名），输入“okayButton”，还有On Action（这个是点击button后触发的事件，后面输入的就是触发的具体方法名），在这个里面输入“okay”。
+
+
+
+6.然后，我们把目光转向上方的菜单栏，
+
+
+
+我们在这里面常用的就是Preview，它可以用来预览我们刚刚搭建好的窗口（点击Preview--->点击Show Preview In Window（或者直接按Ctrl+p）--->窗口就出现啦）。
+
+还有一个就是View，这个对我们还是蛮重要的，因为有了它我们就可以不用自己在Controller类里面写代码骨架了（真的非常非常省力呢），点击View--->点击最下方的Show Sample Controller Skeleton--->会出现下面的窗口
+
+
+
+--->点击左下方的Copy--->回到intellij--->打开刚刚创建的MySceneBuilderController的那个Java class类--->全选--->把刚刚Copy的内容，粘贴进去（就像这样）
+
+
+
+但是报错了，没关系，这只是因为没有导入相应的包，我们把鼠标点击ActionEvent，然后按下快捷键Alt+Enter，就会出现导入包，注意一定要选javafx的那个包，不要选AWT的，导入后应该是这样的：
+
+
+
+可以看到，我们刚刚输入的“okayButton”，还有点击事件“okay”方法都在里面了，我们可以在okay方法里加些东西
+
+
+
+意思就是我们在点击按钮时，会在控制台打印出“Okay”，我们来试试看。
+
+7.但是等一下，你会发现没办法运行啊，嘿嘿，还有一步
+
+我们在在src下创建一个Main类
+
+这时才可以运行，接下来让我们试一试吧。
+
+
+
+窗口：
+
+
+
+点击button后，
+
+
+
+Okay，大功告成。
+
+最基本的入门就是这样了，接下来，东大软院大一新生看过来，我要开始将讲课设了。
+
+
+
+
