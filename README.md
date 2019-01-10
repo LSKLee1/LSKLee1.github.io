@@ -1,6 +1,6 @@
 # Hux Blog
 
-### [View Live Hux Blog &rarr;](https://huangxuan.me)
+### [View Live Reno Blog &rarr;](https://lsklee1.github.io)
 
 ![](http://huangxuan.me/img/blog-desktop.jpg)
 
