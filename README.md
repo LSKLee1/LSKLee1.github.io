@@ -1,4 +1,4 @@
-# Hux Blog
+# Reno Blog
 
 ### [View Live Reno Blog &rarr;](https://lsklee1.github.io)
 
