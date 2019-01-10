@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "Hello 2015"
+title:      "Hello 2019"
 subtitle:   " \"Hello World, Hello Blog\""
-date:       2015-01-29 12:00:00
+date:       2019-01-10 12:00:00
 author:     "Hux"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
@@ -17,7 +17,7 @@ tags:
 
 ## 前言
 
-Hux 的 Blog 就这么开通了。
+Reno 的 Blog 就这么开通了。
 
 [跳过废话，直接看技术实现 ](#build) 
 
