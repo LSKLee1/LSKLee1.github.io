@@ -3,7 +3,7 @@ layout:     post
 title:      "Hello 2019"
 subtitle:   " \"Hello World, Hello Blog\""
 date:       2019-01-10 12:00:00
-author:     "Hux"
+author:     "Reno"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
@@ -72,13 +72,8 @@ Theme 的 CSS 是基于 Bootstrap 定制的，看得不爽的地方直接在 Les
 
 
 ## 后记
+	本篇博客的诞生全靠Hux大佬的github支持。感谢Hux的分享。
 
-回顾这个博客的诞生，纯粹是出于个人兴趣。在知乎相关问题上回答并获得一定的 star 后，我决定把这个博客主题当作一个小小的开源项目来维护。
-
-在经历 v1.0 - v1.5 的蜕变后，这个博客主题愈发完整，不但增加了诸多 UI 层的优化（opinionated）；在代码层面，更加丰富的配置项也使得这个主题拥有了更好的灵活性与可拓展性。而作为一个开源项目，我也积极的为其完善文档与解决 issue。
-
-如果你恰好逛到了这里，希望你也能喜欢这个博客主题。
-
-—— Hux 后记于 2015.10
+—— Reno 后记于 2019.01.10
 
 
