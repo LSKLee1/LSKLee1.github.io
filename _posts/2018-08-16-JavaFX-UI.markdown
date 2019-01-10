@@ -37,7 +37,7 @@ tags:
 
 
 然后，环境就搭建好啦。
----
+
 
 ## JavaFX入门：
 首先，我们要建立一个新的项目，按这个医疗保险报销系统例子来讲的话就是MedicalInsuranceSystem，建立完Project后，开始我们的构建GUI界面之旅。
