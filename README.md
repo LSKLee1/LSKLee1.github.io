@@ -6,7 +6,7 @@
 
 ---
     
-<img src="https://lsklee1.github.io/img/RenoBrowserRecord.gif" width="320" />
+<img src="https://lsklee1.github.io/img/RenoBrowserRecord.gif" width="720" />
 
 
 **[View the boilerplate &rarr;](http://huangxuan.me/huxblog-boilerplate/)**
