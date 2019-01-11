@@ -16,7 +16,10 @@ Hey，我是Reno李思宽，目前身份：烤鸭一只，了解我请看我da [
 
 ##### Talks
 
-- [Upgrading to Progressive Web Apps][9] · [JSConf CN 上海 2017](http://2017.jsconf.cn/)
-- Building Progressive Web Apps · [CSDI 广州 2017](http://www.csdisummit.com/)
-- The State of Progressive Web App · GDG IO Redux 北京 2017
+- [Hello! 2019][1] · [Reno China Shenyang 2019](https://lsklee1.github.io/2019/01/10/hello-2019/)  
+- [Hi! Long time no see][2] · [Reno China Shenyang 2019](https://lsklee1.github.io/2019/01/11/Long-time-no-see/)  
+- [Big O Cheat Sheet][3] · [Reno China Shenyang 2019](http://bigocheatsheet.com/)
 
+[1]: //lsklee1.github.io/2019/01/10/hello-2019/
+[2]: //lsklee1.github.io/2019/01/11/Long-time-no-see/
+[3]: http://bigocheatsheet.com/
