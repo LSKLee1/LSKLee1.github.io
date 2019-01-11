@@ -1,8 +1,7 @@
 
 
-> DO SOMETHING GREAT  
+> DO SOMETHING GREAT    
 > ABOUT MYSELF
-> 
 > (+86) 182-3619-8930  
 > lisikuanreno@gmail.com  
 > Self-motivated, well-organized and detail-oriented  
