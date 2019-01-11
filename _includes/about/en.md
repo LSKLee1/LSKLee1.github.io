@@ -21,6 +21,6 @@ Want know me more?  👉 Click [Reno CV](https://github.com/LSKLee1/LSKLee1.gith
 - [Big O Cheat Sheet][2] · [Reno China Shenyang 2019](http://bigocheatsheet.com/)
 
 [1]: //lsklee1.github.io/2019/01/11/Long-time-no-see/
-[2]: //bigocheatsheet.com/
+[2]: http://bigocheatsheet.com/
 
 
