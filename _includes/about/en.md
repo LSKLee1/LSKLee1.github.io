@@ -9,9 +9,9 @@
 
 
 
-Hello, I am *@Reno* (Sikuan Li), a student who wanna to be a data scientist or maybe a  software enginner. I am currently working on IELTS, and preparing for studying abroad.
+Hello, I am *@Reno* (Sikuan Li), a student who wanna to be a data scientist or maybe a  software enginner. I am currently working on IELTS, and preparing for studying abroad. I must be happy to go to crazy if I receive the offer of Durham University(Emm, of course, KCL is also okay).
 
-I studied Digital Media Art and graduated from [Communication University of China](https://en.wikipedia.org/wiki/Communication_University_of_China) by 2016, and am studying Computer Science at [Rochester Institute of Technology](https://en.wikipedia.org/wiki/Rochester_Institute_of_Technology) from 2017.
+I major in software engineering and studiedin [Communication University of China](https://en.wikipedia.org/wiki/Communication_University_of_China) by 2016, and am studying Computer Science at [Rochester Institute of Technology](https://en.wikipedia.org/wiki/Rochester_Institute_of_Technology) from 2017.
 
 
 ##### Talks
