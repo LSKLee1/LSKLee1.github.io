@@ -5,11 +5,15 @@
 > 夕阳在你面前摇摇晃晃的，只装到你胸口上，撞出了一个洞，十二月的风就从这个洞灌了进来，横冲直撞，你一瞬的荒凉。
 >                                                                                                   —— 笛安 
 
-Hey，我是Reno李思宽，了解我请看我da [Blog](https://lsklee1.github.io)、[微博](https://www.weibo.com/5092674629)、[知乎](https://www.zhihu.com/people/sha-liao-ba-ta-40)、[Github](http://github.com/LSKLee1)、[Medium](https://medium.com/)。
+Hey，我是Reno李思宽，目前身份：烤鸭一只，了解我请看我da [Blog](https://lsklee1.github.io)、[微博](https://www.weibo.com/5092674629)、[知乎](https://www.zhihu.com/people/sha-liao-ba-ta-40)、[Github](http://github.com/LSKLee1)、[Medium](https://medium.com/)。
 
-职业是软件工程师，[Web 工会](https://medium.com/ben-and-dion/team-web-3315aa447fb2#.359a9c6cl)活跃成员。目前在 [Facebook](https://www.facebook.com/) 写 [Reason](https://reasonml.github.io/) 与 [Messenger.com](http://messenger.com/) ，曾被招募为淘宝网 · [阿里旅行](http://alitrip.com)前端工程师、微影时代 · [微票儿](http://www.wepiao.com/?r=movie)前端基础工程团队负责人、[饿了么](https://ele.me/) · 大前端团队 · [PWA 顾问](https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509)。
+目前的职业是学生哦，所在地东北大学。
 
-一些作品和开源软件项目，👉 戳 [Portfolio](/portfolio)、[Github](http://github.com/huxpro)、[演说.io](https://zhuanlan.zhihu.com/p/21280918)。 
+未来想要做一名Data Scientist，希望不会离目标越来越远。
+
+
+
+一些作品和开源软件项目（好像没有什么东西，哈哈），👉 戳 [Github](http://github.com/LSKLee1) 
 
 
 ##### Talks
