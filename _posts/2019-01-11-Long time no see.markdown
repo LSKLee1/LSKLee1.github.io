@@ -23,7 +23,9 @@ when I was in the classroom we sent to each other and The full weight of what's 
 But all of those feelings become empty thoughts. when I look back now, remembering that LOVE isn't always what it seems. It's just so easy to forget. This isn't regret.
 We had our reasons for ending it and they were as valid as ever. But back at the start we didn't need any reasons to fall in love, WE JUST DID!!!! 
 The reasons came at the end and everything since then has become about reasons and that's good, it means that one day I'll find someone who I won't have to say goodbye too but apart of me just loves missing someone and having them love you back. 
-That's all. What I'm saying is I hope everything is good with you, I hope everything is great! I hope you've found a love that's all the things ours couldn't be. But just a small part of me hopes that you still remember what it was like before all the reasons and that you MISS ME TOO!!!! 
+---
+That's all. 
+What I'm saying is I hope everything is good with you, I hope everything is great! I hope you've found a love that's all the things ours couldn't be. But just a small part of me hopes that you still remember what it was like before all the reasons and that you MISS ME TOO!!!! 
  
  
  
