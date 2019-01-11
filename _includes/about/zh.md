@@ -7,11 +7,9 @@
 
 Hey，我是Reno李思宽，目前身份：烤鸭一只，了解我请看我da [Blog](https://lsklee1.github.io)、[微博](https://www.weibo.com/5092674629)、[知乎](https://www.zhihu.com/people/sha-liao-ba-ta-40)、[Github](http://github.com/LSKLee1)、[Medium](https://medium.com/)。
 
-目前的职业是学生哦，所在地东北大学。如果我可以去杜伦学个硕士就太棒了o(╥﹏╥)o
+目前的职业是学生哦，所在地东北大学。当然，如果我可以去杜伦学个硕士就太棒了o(╥﹏╥)o
 
 未来想要做一名Data Scientist，希望不会离目标越来越远。
-
-
 
 一些作品和开源软件项目（好像没有什么东西，哈哈），👉 戳 [Github](http://github.com/LSKLee1) 
 
