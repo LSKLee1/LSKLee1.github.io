@@ -17,9 +17,9 @@ I am pursuing BS in Software Engineering(international) and studied in [Northeas
 Want know me more?  👉 Click [Reno CV](https://github.com/LSKLee1/LSKLee1.github.io/blob/master/RenoCV.pdf)
 ##### Talks
 
-- [Upgrading to Progressive Web Apps][1] · [JSConf China Shanghai 2017](http://2017.jsconf.cn/)
+- [Hi! Long time no see][1] · [Reno China Shenyang 2019](https://lsklee1.github.io/2019/01/11/Long-time-no-see/)
 
-[1]: //huangxuan.me/2015/07/09/js-module-7day/
+[1]: //lsklee1.github.io/2019/01/11/Long-time-no-see/
 
 
 
