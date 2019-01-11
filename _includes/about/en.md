@@ -11,7 +11,7 @@
 
 Hello, I am *@Reno* (Sikuan Li), a student who wanna to be a data scientist or maybe a  software enginner. I am currently working on IELTS, and preparing for studying abroad. I must be happy to go to crazy if I receive the offer of Durham University(Emm, of course, KCL is also okay).
 
-I major in software engineering and studied in [Northeastern University (China)](https://en.wikipedia.org/wiki/Northeastern_University_(China)) since 2017.
+I am pursuing BS in Software Engineering(international) and studied in [Northeastern University (China)](https://en.wikipedia.org/wiki/Northeastern_University_(China)) since 2017.
 
 ##### Talks
 
