@@ -5,9 +5,8 @@
 ![](https://lsklee1.github.io/img/blog-desktop.jpg)  
 
 ---
-  
-![](https://lsklee1.github.io/img/RenoBrowserRecord.gif)  
-
+    
+<img src="https://lsklee1.github.io/img/RenoBrowserRecord.gif" width="320" />
 
 
 **[View the boilerplate &rarr;](http://huangxuan.me/huxblog-boilerplate/)**
