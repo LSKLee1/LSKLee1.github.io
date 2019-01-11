@@ -4,6 +4,7 @@
 
 ![](https://lsklee1.github.io/img/blog-desktop.jpg)
 
+**[在这里预览模板 &rarr;](http://huangxuan.me/huxblog-boilerplate/)**
 
 ## License
 
