@@ -12,7 +12,7 @@ tags:
     - 你我
 ---
 
-> “Hei, How are you? ”
+> “Hey, How are you? ”
 
 Hey! I know we haven't seen each other, or even talked to each other in a while. 
 
