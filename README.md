@@ -2,7 +2,7 @@
 
 ### [View Live Reno Blog &rarr;](https://lsklee1.github.io)
 
-![](http://huangxuan.me/img/blog-desktop.jpg)
+![](http://https://lsklee1.github.io/img/blog-desktop.jpg)
 
 
 ## License
