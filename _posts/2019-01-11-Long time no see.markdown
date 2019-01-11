@@ -12,7 +12,7 @@ tags:
     - 你我
 ---
 
-> “Yeah It's on. ”
+> “Hei, How are you? ”
 
 Hey! I know we haven't seen each other, or even talked to each other in a while. 
 But I want you to know, that I've been doing a lot of thinking lately and I want you to know that I MISS YOU! 
