@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Hi! Long time no see"
-subtitle:   " \"Now, I understand the weight of the word \"world\" \".\""
+subtitle:   "Now, I understand the weight of the word \"world\" ."
 date:       2019-01-11 10:32:22
 author:     "Reno"
 header-img: "img/post-bg-longtimenosee.jpg"
