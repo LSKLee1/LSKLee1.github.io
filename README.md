@@ -2,7 +2,13 @@
 
 ### [View Live Reno Blog &rarr;](https://lsklee1.github.io)
 
-![](https://lsklee1.github.io/img/blog-desktop.jpg)
+![](https://lsklee1.github.io/img/blog-desktop.jpg)  
+
+---
+  
+![](https://lsklee1.github.io/img/RenoBrowserRecord.mp4)  
+
+
 
 **[View the boilerplate &rarr;](http://huangxuan.me/huxblog-boilerplate/)**
 
