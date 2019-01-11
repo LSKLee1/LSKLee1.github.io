@@ -6,7 +6,7 @@
 
 ---
   
-![](https://lsklee1.github.io/img/RenoBrowserRecord.mp4)  
+![](https://lsklee1.github.io/img/RenoBrowserRecord.gif)  
 
 
 
