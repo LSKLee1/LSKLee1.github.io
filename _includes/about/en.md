@@ -13,6 +13,8 @@ Hello, I am *@Reno* (Sikuan Li), a student who wanna to be a data scientist or m
 
 I am pursuing BS in Software Engineering(international) and studied in [Northeastern University (China)](https://en.wikipedia.org/wiki/Northeastern_University_(China)) since 2017.
 
+### Reno CV
+Want know me more? Click [Reno CV](https://github.com/LSKLee1/LSKLee1.github.io/blob/master/RenoCV.pdf)
 ##### Talks
 
 - [Upgrading to Progressive Web Apps][9] · [JSConf China Shanghai 2017](http://2017.jsconf.cn/)
