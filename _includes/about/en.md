@@ -3,10 +3,10 @@
 > Yet another man.
 > ABOUT MYSELF
 > 
-> (+86) 182-3619-8930
-> lisikuanreno@gmail.com
-> Good at multi tasking and working in fast-paced environment
-> Self-motivated, well-organized and detail-oriented
+> (+86) 182-3619-8930  
+> lisikuanreno@gmail.com  
+> Good at multi tasking and working in fast-paced environment  
+> Self-motivated, well-organized and detail-oriented  
 
 
 
