@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Long time no see"
+title:      "Hi! Long time no see"
 subtitle:   " \"Hello World, Hello Blog\""
 date:       2019-01-11 10:32:22
 author:     "Reno"
