@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <!-- Created By http://www.zhetao.com/sitemapcreator,  URLs: 19 Generated at: 2019-01-12 19:45:32 -->
+
+  <url>
+    <loc>https://lskreno.vip/</loc>
+    <priority>1.00</priority>
+<image:image>
+<image:loc>https://lskreno.vip/img/avatar-hux-ny.jpg</image:loc>
+</image:image>
+<image:image>
+<image:loc>https://lskreno.vip/img/icon_wechat.png</image:loc>
+</image:image>
+  </url>
+
+  <url>
+    <loc>https://lskreno.vip/portfolio/</loc>
+    <priority>1.00</priority>
+<image:image>
+<image:loc>https://lskreno.vip/portfolio/images/medicalInsurance.jpg</image:loc>
+</image:image>
+<image:image>
+<image:loc>https://lskreno.vip/portfolio/images/work-busyweek.jpg</image:loc>
+</image:image>
+  </url>
+
+  <url>
+    <loc>https://lskreno.vip/2019/01/11/Long-time-no-see/</loc>
+    <priority>1.00</priority>
+<image:image>
+<image:loc>https://lskreno.vip/img/post-bg-longtimenosee.jpg</image:loc>
+</image:image>
+  </url>
+
+  <url>
+    <loc>https://lskreno.vip/2019/01/10/hello-2019/</loc>
+    <priority>1.00</priority>
+<image:image>
+<image:loc>https://lskreno.vip/img/post-bg-2018.jpg</image:loc>
+</image:image>
+  </url>
+
+  <url>
+    <loc>https://lskreno.vip/2018/08/16/JavaFX-UI/</loc>
+    <priority>1.00</priority>
+<image:image>
+<image:loc>https://lskreno.vip/img/post-bg2-2018.jpg</image:loc>
+</image:image>
+  </url>
+
+  <url>
+    <loc>https://lskreno.vip/2018/06/30/dreamer/</loc>
+    <priority>1.00</priority>
+<image:image>
+<image:loc>https://lskreno.vip/img/post-bg-dreamer.jpg</image:loc>
+</image:image>
+  </url>
+
+  <url>
+    <loc>https://lskreno.vip/2017/10/06/css-complaints/</loc>
+    <priority>0.89</priority>
+<image:image>
+<image:loc>https://lskreno.vip/img/post-bg-css.jpg</image:loc>
+</image:image>
+  </url>
+
+  <url>
+    <loc>https://lskreno.vip/2015/03/10/apple-event-2015/</loc>
+    <priority>0.87</priority>
+<image:image>
+<image:loc>https://lskreno.vip/img/post-bg-apple-event-2015.jpg</image:loc>
+</image:image>
+  </url>
+
+</urlset>
