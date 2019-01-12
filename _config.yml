@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: lisikuanreno@gmail.com
 description: "Python, ML | 这里是 @Reno 的个人博客，与你一起发现更大的世界。"
 keyword: "博客"
-url: "https://lsklee1.github.io"              # your host, for absolute URL
+url: "lskreno.vip"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -72,7 +72,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: lsklee1.github.io
+ga_domain: lskreno.vip
 
 
 
