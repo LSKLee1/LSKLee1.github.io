@@ -8,6 +8,7 @@ header-img: "img/post-bg2-2018.jpg"
 catalog: true
 tags:
     - JavaFX
+    - 东大课设
     - 你我
 ---
 
