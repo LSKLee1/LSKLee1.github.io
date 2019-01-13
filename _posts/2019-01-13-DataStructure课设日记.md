@@ -4,7 +4,7 @@ title:      "DataStructure课设日记"
 subtitle:   " \"课设点滴， 每日记录\" "
 date:       2019-01-13 19:06:45
 author:     "Reno"
-header-img: "img/post-bg-datastructure.jpg"
+header-img: "img/post-bg-dataStructure.jpg"
 catalog: true
 tags:
     - 生活
