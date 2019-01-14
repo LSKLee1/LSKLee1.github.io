@@ -47,7 +47,7 @@ tags:
 
 1.我们右击src那个文件夹，然后鼠标放在new上，在点击Java class，然后Name里输入MySceneController就创建了一个控制器类（用来控制下面我们即将用来构建界面的FXML文件中的一系列动作，即所谓的控制代码）。
 
-2.再次右击src文件夹，鼠标放在new上，在点击FXML File，然后Name里输入MySceneController就创建了一个可以用来写界面的文件。（建立后你会发现你的那个文件中有一行，有这样的fx:controller="MySceneController"代码，然后“”中的内容被一个红框框框住了，没关系，只要你的Controller类（就是那个Java Class文件）和FXML文件的名称是一样的，就不用担心，也不用更改；但如果不一样的话就需要把“”中的内容改成新创立的Java Class文件一样的名称，推荐建立一样的文件名称，这样方便你去找到对应的界面和代码）。
+2.再次右击src文件夹，鼠标放在new上，在点击FXML File，然后Name里输入MySceneController就创建了一个可以用来写界面的文件。（建立后你会发现你的那个文件中有一行，有这样的`fx:controller="MySceneController" `代码，然后“”中的内容被一个红框框框住了，没关系，只要你的Controller类（就是那个Java Class文件）和FXML文件的名称是一样的，就不用担心，也不用更改；但如果不一样的话就需要把“”中的内容改成新创立的Java Class文件一样的名称，推荐建立一样的文件名称，这样方便你去找到对应的界面和代码）。
 
 
 
@@ -69,7 +69,7 @@ tags:
 
 
 
-我们先点击我们之前拖动到AnchorPane上的那个button，再看右边就会有东西出现了，然后点击Code那一栏，看前面几行就好（下面的留给你自己探索吧）有fx：id（这个通俗讲就是这个button的名称，就是这个button的变量名），输入“okayButton”，还有On Action（这个是点击button后触发的事件，后面输入的就是触发的具体方法名），在这个里面输入“okay”。
+我们先点击我们之前拖动到AnchorPane上的那个button，再看右边就会有东西出现了，然后点击Code那一栏，看前面几行就好（下面的留给你自己探索吧）有fx：id（这个通俗讲就是这个button的名称，就是这个button的变量名），输入`“okayButton”`，还有On Action（这个是点击button后触发的事件，后面输入的就是触发的具体方法名），在这个里面输入“okay”。
 
 
 
