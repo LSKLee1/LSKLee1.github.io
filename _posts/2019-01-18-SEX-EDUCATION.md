@@ -4,7 +4,7 @@ title:      "SEX EDUCATION"
 subtitle:   " \"很多坏女孩真的很棒\" "
 date:       2019-01-18 08:28:45
 author:     "Reno"
-header-img: "img/post-bg-liquor.jpg"
+header-img: "img/post-bg-sexEducation.jpg"
 catalog: true
 tags:
     - 生活
