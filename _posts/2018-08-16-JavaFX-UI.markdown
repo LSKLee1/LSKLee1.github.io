@@ -53,17 +53,17 @@ tags:
 
 3.好，做完前两个步骤之后，我们开始界面的设计了。在左边的文件夹中找到你新建立的FXML文件，右击，在最下面可以看到Open In SceneBuilder，点击后，这个文件就会在SceneBuilder中打开会出现下面的界面：
 
-
+![](https://img-blog.csdn.net/20180805120158741?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MTU3MTQ5Mw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
 然后就可以进行界面的设计啦。下面我给出一个极其简单的例子：
 
 4.在左边上面的的Library上输入Button，找到button，点击，拖动到AnchorPane上：
 
-
+![](https://img-blog.csdn.net/20180805120322337?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MTU3MTQ5Mw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
 双击那个按钮可以修改文本，我在这里改成ok
 
-
+![](https://img-blog.csdn.net/20180805122701746?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MTU3MTQ5Mw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
 5.然后，我们看右边的三个菜单栏：有Properties（属性），Layout（布局），Code（代码）。
 
@@ -71,29 +71,29 @@ tags:
 
 我们先点击我们之前拖动到AnchorPane上的那个button，再看右边就会有东西出现了，然后点击Code那一栏，看前面几行就好（下面的留给你自己探索吧）有fx：id（这个通俗讲就是这个button的名称，就是这个button的变量名），输入`“okayButton”`，还有On Action（这个是点击button后触发的事件，后面输入的就是触发的具体方法名），在这个里面输入“okay”。
 
-
+![](https://img-blog.csdn.net/20180806083211108?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MTU3MTQ5Mw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
 6.然后，我们把目光转向上方的菜单栏，
 
-
+![](https://img-blog.csdn.net/20180806083418251?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MTU3MTQ5Mw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
 我们在这里面常用的就是Preview，它可以用来预览我们刚刚搭建好的窗口（点击Preview--->点击Show Preview In Window（或者直接按Ctrl+p）--->窗口就出现啦）。
 
 还有一个就是View，这个对我们还是蛮重要的，因为有了它我们就可以不用自己在Controller类里面写代码骨架了（真的非常非常省力呢），点击View--->点击最下方的Show Sample Controller Skeleton--->会出现下面的窗口
 
-
+![](https://img-blog.csdn.net/20180806084117885?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MTU3MTQ5Mw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
 --->点击左下方的Copy--->回到intellij--->打开刚刚创建的MySceneBuilderController的那个Java class类--->全选--->把刚刚Copy的内容，粘贴进去（就像这样）
 
-
+![](https://img-blog.csdn.net/20180806084636994?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MTU3MTQ5Mw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
 但是报错了，没关系，这只是因为没有导入相应的包，我们把鼠标点击ActionEvent，然后按下快捷键Alt+Enter，就会出现导入包，注意一定要选javafx的那个包，不要选AWT的，导入后应该是这样的：
 
-
+![](https://img-blog.csdn.net/20180806090353866?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MTU3MTQ5Mw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
 可以看到，我们刚刚输入的“okayButton”，还有点击事件“okay”方法都在里面了，我们可以在okay方法里加些东西
 
-
+![](https://img-blog.csdn.net/20180806090623934?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MTU3MTQ5Mw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
 意思就是我们在点击按钮时，会在控制台打印出“Okay”，我们来试试看。
 
@@ -103,19 +103,21 @@ tags:
 
 这时才可以运行，接下来让我们试一试吧。
 
-
+![](https://img-blog.csdn.net/20180806091549258?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MTU3MTQ5Mw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
 窗口：
 
-
+![](https://img-blog.csdn.net/20180806092058573?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MTU3MTQ5Mw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
 点击button后，
 
-
+![](https://img-blog.csdn.net/20180806092131245?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MTU3MTQ5Mw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
 Okay，大功告成。
 
 最基本的入门就是这样了，接下来，东大软院大一新生看过来，我要开始将讲课设了。
+
+先给出Github的地址[我在这请点我](https://github.com/LSKLee1/MedicalInsuranceSystem)
 
 
 
