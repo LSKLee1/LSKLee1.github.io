@@ -32,5 +32,7 @@ Fujian Branch of China Mobile Ltd will provide a monthly sample data of 2018 (de
 
 ##### GitHub
 
+[](https://github.com/LSKLee1/Group-Image-of-Consumers--Intelligent-Scoring-of-Credits "Reno的GitHub")
+
 
 
