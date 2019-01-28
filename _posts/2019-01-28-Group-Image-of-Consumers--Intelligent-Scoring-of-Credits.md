@@ -4,7 +4,7 @@ title:      "Group-Image-of-Consumers--Intelligent-Scoring-of-Credits"
 subtitle:   " Digital China Innovation Contest, DCIC 2019 "
 date:       2019-01-28 12:09:20
 author:     "Reno"
-header-img: "img/post-bg-tourSystem.jpg"
+header-img: "img/post-bg-GroupImageOfConsumers.jpg"
 catalog: true
 tags:
     - Competitions
