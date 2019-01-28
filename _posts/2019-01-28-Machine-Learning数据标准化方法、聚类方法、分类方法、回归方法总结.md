@@ -4,7 +4,7 @@ title:      "Machine Learning数据标准化方法、聚类方法、分类方法
 subtitle:   "ML常用方法小总结"
 date:       2019-01-28 12:09:20
 author:     "Reno"
-header-img: "img/post-bg-GroupImageOfConsumers.jpg"
+header-img: "img/post-bg-MLmethodsConclusion.jpg"
 catalog: true
 tags:
     - Machine Learning
