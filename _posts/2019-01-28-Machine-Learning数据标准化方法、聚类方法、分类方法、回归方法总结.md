@@ -2,7 +2,7 @@
 layout:     post
 title:      "Machine Learning数据标准化方法、聚类方法、分类方法、回归方法总结"
 subtitle:   "ML常用方法小总结"
-date:       2018-11-01 19:12:10
+date:       2019-01-27 19:12:10
 author:     "Reno"
 header-img: "img/post-bg-MLmethodsConclusion.jpg"
 catalog: true
@@ -34,6 +34,9 @@ tags:
 （4）FMI评价法，需要真实值，最佳值为1，python里的sklearm函数fowlkes_mallows_score   
 （5）轮廓系数评价法，不需要真实值，畸变程度最大，python里的sklearm函数silhouette_score   
 （6）Calinski- Harabasz指数评价法，不需要真实值，相对较大，python里的sklearm函数calinski_harabaz_core   
+
+
+
 Tips：评价的标准是组内的相似性越大，组间相似性越小，前四种方法因为有真实值得参与相对于后两种更具有说服力，那么当有真实值得参与时聚类的评价可以等同于分类算法的评价 ，轮廓系数在不考虑业务情况下得分越高越好，最高得分是1 
 
 ## 分类模型的方法： 
