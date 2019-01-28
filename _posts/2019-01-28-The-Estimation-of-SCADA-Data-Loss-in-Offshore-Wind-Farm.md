@@ -28,7 +28,7 @@ We extract actual SCADA data of a certain offshore wind farm and artificially re
 
 ##### GitHub
 
-[Reno's GitHub](https://github.com/LSKLee1/Group-Image-of-Consumers--Intelligent-Scoring-of-Credits)
+[Reno's GitHub](https://github.com/LSKLee1/The-Estimation-of-SCADA-Data-Loss-in-Offshore-Wind-Farm)
 
 
 
