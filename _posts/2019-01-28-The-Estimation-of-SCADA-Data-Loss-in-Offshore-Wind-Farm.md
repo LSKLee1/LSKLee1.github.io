@@ -28,5 +28,5 @@ We extract actual SCADA data of a certain offshore wind farm and artificially re
 
 [Reno's GitHub](https://github.com/LSKLee1/The-Estimation-of-SCADA-Data-Loss-in-Offshore-Wind-Farm)
 
-![](https://github.com/LSKLee1/LSKLee1.github.io/blob/master/img/post-bg-OffshoreWindFarm.jpg)
+![](https://github.com/LSKLee1/LSKLee1.github.io/blob/master/img/post-pic/post-offshoreWindFarm.jpg)
 
