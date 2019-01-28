@@ -2,7 +2,7 @@
 layout:     post
 title:      "Machine Learning数据标准化方法、聚类方法、分类方法、回归方法总结"
 subtitle:   "ML常用方法小总结"
-date:       2019-01-28 12:09:20
+date:       2018-11-01 19:12:10
 author:     "Reno"
 header-img: "img/post-bg-MLmethodsConclusion.jpg"
 catalog: true
