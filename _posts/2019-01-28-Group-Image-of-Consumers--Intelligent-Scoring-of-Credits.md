@@ -28,3 +28,9 @@ Measured by the dimension of clients’ consumption capacity, Traditional credit
 
 Fujian Branch of China Mobile Ltd will provide a monthly sample data of 2018 (desensitization), which includes multidimensional information such as clients’ communication expenses, overdue account, travelling, consumption facilities, social contacts, and personal interest, etc. On the basis of analyzing & modeling, all participants are supposed to precisely assess clients’ consumption credit scores with the help of machine learning and deep learning algorithm.
 
+
+
+##### GitHub
+
+
+
