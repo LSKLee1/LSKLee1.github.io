@@ -4,7 +4,7 @@ title:      "The-Estimation-of-SCADA-Data-Loss-in-Offshore-Wind-Farm"
 subtitle:   " Digital China Innovation Contest, DCIC 2019 "
 date:       2019-01-28 11:17:14
 author:     "Reno"
-header-img: "img/post-bg-GroupImageOfConsumers.jpg"
+header-img: "img/post-bg-OffshoreWindFarm.jpg"
 catalog: true
 tags:
     - Competitions
