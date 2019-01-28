@@ -24,11 +24,9 @@ Wind farm (especially the offshore wind farm) is located in remote areas and dif
 ### Race Task
 We extract actual SCADA data of a certain offshore wind farm and artificially remove some of the data, including but not limited to deleting all data of a certain time period, data of a certain turbine at a certain time, some fields of a certain turbine at a certain time, etc. The applicant needs to use the remaining data to recover the deleted data, and the accuracy of the recovery shall be the final evaluation benchmark.
 
-
-
 ##### GitHub
 
 [Reno's GitHub](https://github.com/LSKLee1/The-Estimation-of-SCADA-Data-Loss-in-Offshore-Wind-Farm)
 
-
+![](https://github.com/LSKLee1/LSKLee1.github.io/blob/master/img/post-bg-OffshoreWindFarm.jpg)
 
