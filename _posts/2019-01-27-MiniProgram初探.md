@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "MiniProgram初探"
-subtitle:   "Wana develop my own miniprogram 'TinyTimeBank', Oh, maybe 'TinyBank' "
+subtitle:   "Wanna develop my own miniprogram 'TinyTimeBank', Oh, maybe 'TinyBank' "
 date:       2019-01-29 21:59:18
 author:     "Reno"
 header-img: "img/post-bg-miniProgram.jpg"
