@@ -19,7 +19,9 @@ Hey，我是Reno李思宽，目前身份：烤鸭一只，了解我请看我da [
 - [Hello! 2019][1] · [Reno China Shenyang 2019](https://lsklee1.github.io/2019/01/10/hello-2019/)  
 - [Hi! Long time no see][2] · [Reno China Shenyang 2019](https://lsklee1.github.io/2019/01/11/Long-time-no-see/)  
 - [Big O Cheat Sheet][3] · [Reno China Shenyang 2019](http://bigocheatsheet.com/)
+- [年华][4] · [Reno World 2019 - Present](https://lskreno.vip/2019/02/01/%E5%B9%B4%E5%8D%8E/)
 
-[1]: //lsklee1.github.io/2019/01/10/hello-2019/
-[2]: //lsklee1.github.io/2019/01/11/Long-time-no-see/
+[1]: //lskreno.vip/2019/01/10/hello-2019/
+[2]: //lskreno.vip/2019/01/11/Long-time-no-see/
 [3]: http://bigocheatsheet.com/
+[4]: //lskreno.vip/2019/02/01/%E5%B9%B4%E5%8D%8E/
