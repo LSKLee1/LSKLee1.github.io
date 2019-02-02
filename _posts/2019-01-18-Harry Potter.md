@@ -9,7 +9,8 @@ catalog: true
 tags:
     - 生活
     - 你我
-    - 傻子
+    - Harry Potter
 ---
 
 > It is not our abilities that show what we truly are. It's our choices. 
+
