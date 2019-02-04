@@ -20,7 +20,7 @@ Want know me more?  👉 Click [Reno CV](https://github.com/LSKLee1/LSKLee1.gith
 - [Hello! 2019][1] · [Reno China Shenyang 2019](https://lsklee1.github.io/2019/01/10/hello-2019/)  
 - [Hi! Long time no see][2] · [Reno China Shenyang 2019](https://lsklee1.github.io/2019/01/11/Long-time-no-see/)  
 - [Big O Cheat Sheet][3] · [Reno China Shenyang 2019](http://bigocheatsheet.com/)
-- [年华][4] · [Reno World 2019 - Present](https://lskreno.vip/archive/?tag=%E5%B9%B4%E5%8D%8E/)
+- [年华][4] · [Reno World 2019 - Present](https://lskreno.vip/archive/?tag=%E5%B9%B4%E5%8D%8E)
 
 [1]: //lskreno.vip/2019/01/10/hello-2019/
 [2]: //lskreno.vip/2019/01/11/Long-time-no-see/
