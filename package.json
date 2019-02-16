@@ -1,14 +1,14 @@
 {
-    "name": "Otone-blog",
-    "title": "Otone Blog",
-    "author": "FujishiroOtone <kurumi.zsy@gmail.com>",
+    "name": "Reno-blog",
+    "title": "Reno Blog",
+    "author": "LSKLee1 <18236198930@163.com>",
     "version": "1.0.3",
-    "homepage": "http://FujishiroOtone.github.io",
+    "homepage": "http://LSKLee1.github.io",
     "repository": {
         "type": "git",
-        "url": "https://github.com/FujishiroOtone/FujishiroOtone.github.io"
+        "url": "https://github.com/LSKLee1/LSKLee1.github.io"
     },
-    "bugs": "https://github.com/FujishiroOtone/FujishiroOtone.github.io/issues",
+    "bugs": "https://github.com/LSKLee1/LSKLee1.github.io/issues",
     "devDependencies": {
         "grunt": "~0.4.5",
         "grunt-contrib-less": "~0.11.4",
