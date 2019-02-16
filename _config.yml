@@ -64,6 +64,16 @@ disqus_username: Reno
 # Netease settings
 netease_comment: false
 
+# Gitalk
+gitalk:
+  enable: true    #是否开启Gitalk评论
+  clientID: cf0a5241582c0834dcc9                            #生成的clientID
+  clientSecret: a3d38309fd2a8cacb333370b1510a389f3928b67    #生成的clientSecret
+  repo: LSKLee1.github.io    #仓库名称
+  owner: LSKLee1    #github用户名
+  admin: LSKLee1
+  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+
 
 
 # Analytics settings
