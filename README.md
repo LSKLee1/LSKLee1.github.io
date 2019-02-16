@@ -5,7 +5,7 @@
 ![](https://lsklee1.github.io/img/blog-desktop.jpg)  
 
 ---
-    
+### Mobile Terminal：    
 <img src="https://lsklee1.github.io/img/RenoBrowserRecord.gif" />
 
 
