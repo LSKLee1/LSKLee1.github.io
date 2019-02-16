@@ -1,6 +1,6 @@
 # Reno Blog
 
-### [View Live Reno Blog &rarr;](https://lsklee1.github.io)
+### [View Live Reno Blog &rarr;](https://lskreno.vip)
 
 ![](https://lsklee1.github.io/img/blog-desktop.jpg)  
 
