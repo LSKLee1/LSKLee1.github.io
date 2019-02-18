@@ -70,6 +70,11 @@ var _hmt = _hmt || [];
                 <div id="gitalk-container"></div>
                 <script type="text/javascript">
                     var gitalk = new Gitalk({
+		     // 在这里设置一下截取前50个字符串, 这是因为 github 对 label 的长度有了要求, 如果超过
+		     // 50个字符串则会报错.
+		    id: (location.pathname).split("/").pop().substring(0, 49),
+		    distractionFreeMode: true,
+		    language: language,
                     clientID: '{{site.gitalk.clientID}}',
                     clientSecret: '{{site.gitalk.clientSecret}}',
                     repo: '{{site.gitalk.repo}}',
