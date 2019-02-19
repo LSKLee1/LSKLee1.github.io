@@ -2,7 +2,7 @@
 
 ### [View Live Reno Blog &rarr;](https://lskreno.vip)
 
-![](https://lsklee1.github.io/img/blog-desktop.jpg)  
+![](https://raw.githubusercontent.com/LSKReno/LSKLee1.github.io/master/img/blog-desktop.jpg)  
 
 ---
 ### Mobile Terminal：    
