@@ -6,7 +6,7 @@
 
 ---
 ### Mobile Terminal：    
-<img src="https://lsklee1.github.io/img/RenoBrowserRecord.gif" />
+<img src="https://raw.githubusercontent.com/LSKReno/LSKLee1.github.io/master/img/RenoBrowserRecord.gif" />
 
 
 **[View the boilerplate &rarr;](http://huangxuan.me/huxblog-boilerplate/)**
