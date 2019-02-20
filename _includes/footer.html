@@ -9,7 +9,7 @@
                 <p class="copyright text-muted">
                     Copyright &copy; {{ site.title }} {{ site.time | date: '%Y' }}
                     <br>
-                    Powered by <a href="https://github.com/LSKLee1/LSKLee1.github.io">Reno</a> |
+                    Powered by <a href="https://github.com/LSKReno/LSKReno.github.io">Reno</a> |
                     <iframe
                         style="margin-left: 2px; margin-bottom:-5px;"
                         frameborder="0" scrolling="0" width="100px" height="20px"
@@ -27,7 +27,7 @@
                                 mnum = Math.floor(minutes); if(String(mnum).length ==1 ){mnum = "0" + mnum;} 
                                 seconds = (now - grt ) / 1000 - (24 * 60 * 60 * dnum) - (60 * 60 * hnum) - (60 * mnum); 
                                 snum = Math.round(seconds); if(String(snum).length ==1 ){snum = "0" + snum;} 
-                                document.getElementById("timeDate").innerHTML = "本站已安全运行 "+dnum+" 天 "; 
+                                document.getElementById("timeDate").innerHTML = "本站已勉强存活 "+dnum+" 天 "; 
                                 document.getElementById("times").innerHTML = hnum + " 小时 " + mnum + " 分 " + snum + " 秒"; 
                             } 
                         setInterval("createtime()",250);
