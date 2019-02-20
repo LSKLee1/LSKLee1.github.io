@@ -9,7 +9,7 @@
      }
      else {
          $('[rel="icon"]').attr('href', "/img/avatar-reno.jpg");
-         document.title = 'o(＊＾▽＾＊)o♪是不是因为我太帅才回来啊?' + OriginTitle;
+         document.title = '(￣▽￣)我是不是很帅啊?' + OriginTitle;
          titleTime = setTimeout(function () {
              document.title = OriginTitle;
          }, 2000);
