@@ -54,6 +54,9 @@ var _hmt = _hmt || [];
 
                 <!-- Featured Tags -->
                 {% include featured-tags.html %}
+                
+		<!-- Today's poetry -->    
+                {% include today-poetry.html %}
 
                 <!-- Friends Blog -->
                 {% include friends.html %}
@@ -85,12 +88,16 @@ var _hmt = _hmt || [];
                 <!-- Short About -->
                 {% include short-about.html %}
 
+		<!-- Today's poetry -->    
+                {% include today-poetry.html %}
+
                 <!-- Friends Blog -->
                 {% include friends.html %}
     		</div>
         {% endif %}
 	</div>
 </div>
+
 
 {% if site.page-mathjax %}
 <!-- Add support for Mathjax by Voleking-->
