@@ -117,7 +117,7 @@ page-mathjax: false
 live2d:
   enable: true
   scriptFrom: local
-  pluginRootPath: live2dw/
+  pluginRootPath: live2dw/live2d-widget-model-shizuku
   pluginJsPath: lib/
   pluginModelPath: assets/
   tagMode: false
