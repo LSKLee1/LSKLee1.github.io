@@ -53,6 +53,15 @@ var _hmt = _hmt || [];
     <p class="post-meta">
         Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}
     </p>
+    {% include footer.html %}
+    {% if site.leancloud.enable %}
+    <span id="{{ post.url }}" class="leancloud_visitors" data-flag-title="{{ post.title }}">
+        <span class="post-meta">|</span>
+        <span class="post-meta"> Hits:  </span>
+        <span class="leancloud-visitors-count"></span>
+    </span>
+    {% endif %}
+
   
    
 </div>
