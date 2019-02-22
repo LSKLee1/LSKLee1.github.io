@@ -1,6 +1,7 @@
 # Site settings
 title: Reno Blog
-SEOTitle: Reno的博客 | Reno Blog
+# SEOTitle: Reno的博客 | Reno Blog
+SEOTitle: 进来的人都很好看
 header-img: img/home-bg.jpg
 email: lisikuanreno@gmail.com
 description: "程序 生活 | 这里是 @Reno 的个人博客，与你一起发现更大的世界。"
