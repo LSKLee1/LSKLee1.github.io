@@ -2,7 +2,7 @@
 >
 > 在冬天的大街上狂奔。
 >
-> 夕阳在你面前摇摇晃晃的，只装到你胸口上，撞出了一个洞，十二月的风就从这个洞灌了进来，横冲直撞，你一瞬的荒凉。
+> 夕阳在你面前摇摇晃晃的，只撞到你胸口上，撞出了一个洞，十二月的风就从这个洞灌了进来，横冲直撞，你一瞬的荒凉。
 >                                                                                                   —— 笛安 
 
 Hey，我是Reno李思宽，目前身份：烤鸭一只，了解我请看我da [Blog](https://lsklee1.github.io)、[微博](https://www.weibo.com/5092674629)、[知乎](https://www.zhihu.com/people/sha-liao-ba-ta-40)、[Github](http://github.com/LSKLee1)、[Medium](https://medium.com/)。
