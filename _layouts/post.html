@@ -65,42 +65,11 @@ var _hmt = _hmt || [];
                 <br>
                 <div class="thumbs_content">
                     <a href="javascript:void(0)" class="thumbs_button fa fa-thumbs-up" title="点赞，支持一下"> 点赞</a>
-                    <a href="javascript:void(0)" class="reward_button fa fa-money bind_hover_card" 
-                    data-toggle="popover" data-placement="bottom" data-trigger="hover" title="打赏，支持一下"> 打赏</a>
+                    <a href="javascript:void(0)" class="reward_button fa fa-money" title="打赏，支持一下"> 打赏</a>
                     <span class="clear"></span>
                 </div>
                 <br>
                 <br>
-                <<script>
-                $(function() {  
-                    $("[data-toggle='popover']").popover({  
-                        html : true,    
-                        title: title(),    
-                        delay:{show:500, hide:1000},  
-                        content: function() {  
-                            return content();    
-                        }   
-                    });  
-                });  
-                //模拟动态加载标题(真实情况可能会跟后台进行ajax交互)  
-                function title() {  
-                    return '你要搭上我嘛?';  
-                }  
-                
-                //模拟动态加载内容(真实情况可能会跟后台进行ajax交互)  
-                function content() {  
-                    var data = $("
-                    <form><ul><li><span aria-hidden='true' class='icon_globe'></span>&nbsp;<font>粉丝数:</font>7389223</li>" +  
-                            "<li><span aria-hidden='true' class='icon_piechart'></span>&nbsp;<font>关注:</font>265</li>" +  
-                            "<li><span aria-hidden='true' class='icon_search_alt'></span>&nbsp;<font>微博:</font>645</li>" +  
-                            "<li><span aria-hidden='true' class='icon_pens_alt'></span>&nbsp;<font>所在地:</font>台湾</li>" +  
-                            "<input id='btn' type='button' value='关注' onclick='test()'/></form>");  
-                    
-                    return data;  
-                }  
-               
-                </script>>
-                
                 <style type="text/css">
                     .thumbs_content{
                         width: 291px;
