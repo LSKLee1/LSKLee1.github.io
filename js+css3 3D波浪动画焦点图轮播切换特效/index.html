@@ -1,0 +1,101 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>js+css3 3D波浪动画焦点图轮播切换特效</title>
+
+<style>
+	* {
+		margin: 0;
+		padding: 0;
+	}
+	li {
+		list-style: none;
+	}
+	.solid {			
+		width: 800px;
+		height: 360px;
+		margin: 150px auto 0;
+		box-shadow: 1px 7px 25px #fd8fd9;
+	}
+	.solid ul {
+		height: 100%;
+	}
+	.solid ul li {
+		position: relative;
+		float: left;
+		box-sizing: border-box;
+		transform-style: preserve-3d;
+		transform: translateZ(-180px);
+	}
+	.solid ul li div {
+		position: absolute;
+		width: 100%;
+		height: 100%;
+	}
+	.solid ul li div:nth-child(1) {
+		top: -360px;
+		background: url('./img/02.jpg');
+		transform-origin: bottom;
+		transform: translateZ(180px) rotateX(90deg);
+	}
+	.solid ul li div:nth-child(2) {
+		top: 360px;
+		background: url('./img/01.jpg');
+		transform-origin: top;
+		transform: translateZ(180px) rotateX(-90deg);
+	}
+	.solid ul li div:nth-child(3) {
+		background: url('./img/03.jpg');
+		transform: translateZ(180px);
+	}
+	.solid ul li div:nth-child(4) {
+		background: url('./img/04.jpg');
+		transform: translateZ(-180px) rotateX(180deg);
+	}
+	.solid ol {
+		position: absolute;
+		left: 50%;
+		width: 140px;
+		height: 20px;
+		transform: translateX(-50%);
+		display: flex;
+		justify-content: space-around;
+	}
+	.solid ol li {
+		width: 20px;
+		height: 20px;
+		background: black;
+		box-shadow: 0 2px 5px white;
+		border-radius: 50%;
+		color: white;
+		text-align: center;
+		/*斜体 12px大小/20px行高*/
+		font: italic 12px/20px 'Microsoft Yahei';
+		cursor: pointer;
+	}
+	.solid ol li.on {
+		background: red;
+	}
+</style>
+
+</head>
+<body><script src="/demos/googlegg.js"></script>
+
+<div class="solid">
+	<ul class="oUl"></ul>
+	<ol>
+		<li class="on">1</li>
+		<li>2</li>
+		<li>3</li>
+		<li>4</li>
+	</ol>
+</div>
+
+<script src="js/wavePictures.js"></script>
+
+
+</body>
+</html>
