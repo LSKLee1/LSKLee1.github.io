@@ -32,7 +32,7 @@ String s = "hello!";
 
 System.out.printf("%f",d);  //"f"表示格式化输出浮点数。
 
-System.out.printf("%10.4f",d);   //"19.4"中的10表示输出的长度(符号,小数点也算位数)，2表示小数点后的位数。
+System.out.printf("%10.4f",d);   //"10.4"中的10表示输出的长度(符号,小数点也算位数)，4表示小数点后的位数。
 
  System.out.printf("%+9.2f",d);   //"+"表示输出的数带正负号。  
 
@@ -48,6 +48,6 @@ System.out.printf("%x",i);   //"x"表示输出十六进制整数。(大小写不
 
 System.out.printf("%#x",i);   //"#x"表示输出带有十六进制标志的整数。 
 
-System.out.printf("输出一个浮点数：%f，一个整数：%d，一个字符串：%s",d,i,s);  //可以输出多个变量，注意顺序。
+System.out.printf("输出一个浮点数：%f，一个整数：%d，一个字符串：%s", d , i , s);  //可以输出多个变量，注意顺序。
 
-System.out.printf("字符串：%2$s，%1$d的十六进制数：%1$#x",i,s);   //"X$"表示第几个变量。
+System.out.printf("字符串：%2$s，%1$d的十六进制数：%1$#x", i , s);   //"X$"表示第几个变量。
