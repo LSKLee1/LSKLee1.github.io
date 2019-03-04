@@ -4,7 +4,7 @@ title:      "BlueBridge——序列求和"
 subtitle:   " \"垃圾题\" "
 date:       2019-02-27 11:07:00
 author:     "Reno"
-header-img: "img/post-bg-blueBridge.jpg"
+header-img: "img/post-bg-nianhua.jpg"
 catalog: true
 tags:
     - BlueBridge

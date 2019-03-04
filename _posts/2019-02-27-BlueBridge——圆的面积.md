@@ -4,7 +4,7 @@ title:      "BlueBridge——圆的面积"
 subtitle:   " \"垃圾题\" "
 date:       2019-02-27 11:05:00
 author:     "Reno"
-header-img: "img/post-bg-blueBridge.jpg"
+header-img: "img/post-bg-nianhua.jpg"
 catalog: true
 tags:
     - BlueBridge
@@ -13,9 +13,9 @@ tags:
 ---
 
 ```java
-import	java.util.Scanner;
-public	class	Main {
-    public	static	void	main(String[] args) {
+import java.util.Scanner;
+public class Main {
+    public static void main(String[] args) {
         int	n = new	Scanner(System.in).nextInt();
         System.out.printf("%.7f",Math.PI*n*n);
     }
