@@ -4,7 +4,7 @@ title:      "BlueBridge——圆的面积"
 subtitle:   " \"垃圾题\" "
 date:       2019-02-27 11:05:00
 author:     "Reno"
-header-img: "img/post-bg-nianhua.jpg"
+header-img: "img/post-bg-blueBridge.jpg"
 catalog: true
 tags:
     - BlueBridge
