@@ -53,6 +53,12 @@
 .sidebar-container .short-about .list-inline > li {
   padding-left: 0px;
 }
+.sidebar-container .wx-miniprograme img {
+  width: 100%;
+  display: block;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
 .catalog-container {
   padding: 0px;
 }
