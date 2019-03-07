@@ -10,7 +10,6 @@ tags:
     - TinyBank
     - MiniProgram
     - Programe
-    - 生活
 
 ---
 
