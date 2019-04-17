@@ -4,12 +4,12 @@
  document.addEventListener('visibilitychange', function () {
      if (document.hidden) {
          $('[rel="icon"]').attr('href', "/img/avatar-reno.jpg");
-         document.title = '(╬◣д◢)怎么不看我!';
+         document.title = '怎么不看我!';
          clearTimeout(titleTime);
      }
      else {
          $('[rel="icon"]').attr('href', "/img/avatar-reno.jpg");
-         document.title = '(￣▽￣)我是不是很帅啊?' + OriginTitle;
+         document.title = '我是不是很帅啊?' + OriginTitle;
          titleTime = setTimeout(function () {
              document.title = OriginTitle;
          }, 2000);
