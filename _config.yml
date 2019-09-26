@@ -152,5 +152,9 @@ friends: [
     },{
         title: "外刊评论",
         href: "http://qianduan.guru/"
+    },
+    {
+        title: "DuckSoft's Miscellanies",
+        href: "https://www.ducksoft.site/"
     }
 ]
