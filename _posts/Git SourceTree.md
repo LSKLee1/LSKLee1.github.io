@@ -1,4 +1,17 @@
-### Sourcetree && Git 部分名词解释
+---
+layout: post
+title: "Sourcetree & Git 部分名词解释"
+subtitle: "Sourcetree & Git 部分名词解释"
+author: "Reno"
+header-img: "img/post-bg-optimization.jpg"
+header-mask: 0.4
+catalog: true
+tags:
+  - Git
+  - SourceTree
+---
+
+### Sourcetree & Git 部分名词解释
 
 1.克隆(clone)：从远程仓库URL加载创建一个与远程仓库一样的本地仓库
 2.提交(commit)：将暂存文件上传到本地仓库（我们在Finder中对本地仓库做修改后一般都得先提交一次，再推送）
