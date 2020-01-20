@@ -1,3 +1,15 @@
+---
+layout: post
+title: "JavaScript SDK 设计指南"
+subtitle: "JavaScript SDK 设计指南"
+author: "转"
+header-img: "img/post-bg-optimization.jpg"
+header-mask: 0.4
+catalog: true
+tags:
+  - JavaScript
+---
+
 JavaScript SDK 设计指南
 
 > 一份来自工作实战和个人经验的 JavaScript SDK 设计指南
